@@ -118,8 +118,8 @@ def top_customers(conn):
     cursor.execute(query)
 
     rows = [
-    (category, f"{revenue:,.2f}")
-    for category, revenue in cursor.fetchall()
+    (customer_id, customer_name, f"{revenue:,.2f}")
+    for customer_id, customer_name, revenue in cursor.fetchall()
 ]
 
     if rows:
@@ -185,10 +185,7 @@ def retention_report(conn):
 
     cursor.execute(query)
 
-    rows = [
-    (category, f"{revenue:,.2f}")
-    for category, revenue in cursor.fetchall()
-]
+    rows = cursor.fetchall()
 
     if rows:
 
