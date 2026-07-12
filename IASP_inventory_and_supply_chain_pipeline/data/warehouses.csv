@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,location_city,location_state,country,capacity,warehouse_type,manager_name,operational_status,created_date
+W100,"Sparks, Boyle and Jordan",Fordport,Minnesota,India,126062,regional,Derek Rowe,active,2024-03-16
+W101,Conrad-Miller,West Williamview,Illinois,India,159018,regional,Tanya Holmes,inactive,2024-02-08
+W102,Salazar Ltd,West Amandaberg,Connecticut,India,128841,regional,Sylvia Frank,active,2023-04-28
+W103,Carroll Group,Hughesfort,Nevada,India,164369,regional,Kelly Martinez,inactive,2021-12-30
+W104,"Garcia, Harvey and Martin",South Sarahtown,Hawaii,India,184332,dark_store,Michael Rodriguez,inactive,2024-09-07
+W105,"Warren, Miller and Johnson",South Reginald,Utah,India,157825,regional,Dylan Wright,inactive,2023-09-25
+W106,Washington-Martinez,South Vanessa,Arkansas,India,192308,distribution,Matthew Pugh,inactive,2022-04-07
+W107,Shaw-Collins,Angelaland,New York,India,91171,distribution,Sandra Matthews,active,2025-01-01
+W108,"Farmer, Arnold and Miller",Ryanchester,Connecticut,India,63183,dark_store,Michaela Oliver,inactive,2022-08-04
+W109,Stewart LLC,East Tinahaven,Wyoming,India,56584,dark_store,Michael Cole,inactive,2023-05-23

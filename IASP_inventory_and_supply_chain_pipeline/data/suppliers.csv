@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,region,contact_name,contact_email,rating,lead_time_days,contract_start_date,contract_end_date,is_active
+S200,"Bullock, Gray and Cunningham",USA,North,Ashley James,kristopher90@example.net,3,13,2023-06-22,,True
+S201,"Porter, Mitchell and Garcia",China,North,Cassandra Rogers,invalid_email,1,8,2023-11-01,,False
+S202,Robertson Inc,China,South,Melissa Simmons,invalid_email,3,1,2024-03-12,,True
+S203,"Allen, Jackson and Ramos",USA,APAC,Robin Gonzalez,invalid_email,1,9,2022-03-24,,True
+S204,"Watson, Williams and Robertson",China,North,Timothy Jordan,invalid_email,1,17,2025-02-25,,True
+S205,Greene and Sons,USA,South,Brandy Brown,martinezrebecca@example.net,2,20,2022-02-24,,True
+S206,Huff Ltd,China,North,Christopher Fuller,fbates@example.org,1,6,2023-04-17,,True
+S207,Mcclure-Olsen,India,South,Tamara Harris,danielbass@example.org,4,4,2024-06-12,,False
+S208,Smith-Yang,China,North,Marvin Carter,butlerandre@example.net,5,19,2024-11-18,,True
+S209,"Garrett, Gates and Jimenez",India,South,,jonathanphillips@example.com,2,20,2023-02-19,,False
+S210,"Nguyen, Edwards and Berger",USA,APAC,Lee Ball,ethan97@example.net,2,14,2022-09-08,,False
+S211,Garza PLC,China,North,Jessica Butler,invalid_email,4,15,2024-11-20,,False
+S212,"Harrison, Wilson and Phillips",China,APAC,James Allen,invalid_email,4,20,2021-07-31,,False
+S213,"Sanders, Shannon and Hernandez",China,APAC,,fosteremily@example.net,4,11,2021-09-08,,False
+S214,Figueroa-Wright,India,APAC,Zachary Frazier,jacksoncurtis@example.net,4,7,2023-07-12,,True
+S215,"Briggs, Edwards and Estrada",USA,APAC,Tiffany Hansen,christianpeterson@example.org,5,12,2022-08-25,,True
+S216,Richardson Inc,USA,APAC,Michael Hill,amyramsey@example.com,2,12,2022-06-20,,True
+S217,Barker-Hill,India,South,Gary Moore,michael57@example.org,1,18,2022-03-06,,False
+S218,Harris PLC,China,South,William Everett,uwade@example.net,3,20,2024-01-17,,False
+S219,Leonard Ltd,USA,APAC,Michael Morales,colerobert@example.org,4,18,2024-08-29,,True
