@@ -25,7 +25,6 @@ executive dashboard.
 
 ## Architecture
 
-![IASP Architecture](docs/architecture/IASP_Architecture.png)
 
 ``` text
 6 CSV Source Files
@@ -212,8 +211,6 @@ delivery-date completeness
 
 ## Power BI Dashboard
 
-![IASP Power BI Dashboard](docs/screenshots/10_powerbi_dashboard.png)
-
 ### KPI Cards
 
 -   **Total Revenue:** 5.06bn
@@ -231,37 +228,6 @@ delivery-date completeness
 -   Low Stock Alerts
 -   Product Category slicer
 -   Alert Level slicer
-
-------------------------------------------------------------------------
-
-## Project Evidence
-
-### Azure Raw Data
-
-![Azure Raw Files](docs/screenshots/01_azure_storage_raw_files.png)
-
-### Bronze Layer
-
-![Bronze Ingestion
-Counts](docs/screenshots/03_bronze_ingestion_counts.png)
-
-![Bronze Raw Data](docs/screenshots/04_bronze_raw_data.png)
-
-### Silver Layer
-
-![Silver Validation](docs/screenshots/05_silver_validation.png)
-
-![Silver Cleaned Data](docs/screenshots/06_silver_cleaned_data.png)
-
-### SCD Type 2
-
-![SCD Type 2 Products](docs/screenshots/07_scd_type2_products.png)
-
-### Gold Layer
-
-![Gold Tables](docs/screenshots/08_gold_tables.png)
-
-![Gold Business Output](docs/screenshots/09_gold_business_output.png)
 
 ------------------------------------------------------------------------
 
